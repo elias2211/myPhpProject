@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <html>
 <head>
   <title>Bob's Auto Parts - Order Results</title>
@@ -80,5 +80,4 @@
     
   ?>
 </body>
->>>>>>> 1753339426de90cdcff76fc487730322c28a31e8
 </html>

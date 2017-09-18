@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <html>
 <body>
 <table border="0" cellpadding="3">
@@ -25,7 +25,6 @@
     
     </table>
     </body>
-=======
 <html>
 <body>
 <table border="0" cellpadding="3">
@@ -51,5 +50,4 @@
     
     </table>
     </body>
->>>>>>> 1753339426de90cdcff76fc487730322c28a31e8
     </html>
