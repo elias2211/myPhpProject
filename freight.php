@@ -17,7 +17,6 @@
             </tr> \n"; 
             
       $distance += 50;
-      $hey = you;
     }
     
     ?>
