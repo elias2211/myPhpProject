@@ -17,6 +17,7 @@
             </tr> \n"; 
             
       $distance += 50;
+      $hey = "Fuck this shit";
     }
     
     ?>
